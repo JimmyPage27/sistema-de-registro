@@ -3,14 +3,19 @@
 Estado del proyecto: en construncción.
 
 > [!NOTE]
+> Revisa esta nota
 
 > [!IMPORTANT]
+> Esto es Importante
 
 > [!TIP]
+> TIP
 
 > [!WARNING]
+> ADVERTENCIA
 
 > [!CAUTION]
+> PRECAUCIÓN
 
 
 
